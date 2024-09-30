@@ -13,6 +13,7 @@ This project explores the effectiveness of various implementations of vector ind
 - **chatgpt_assistant/**: Tools to help set up a ChatGPT assistant.
 - **cleaning/**: Tools for cleaning and sorting articles into JSON format.
 - **data/**: Cleaned and sorted articles as JSON.
+- **demo/**: Hugging Faces demo using Meta-Llama-3-8B-Instruct. Use with "storage_bge-large-en-v1-5_Meta-Llama-3-8B-Instruct"
 - **llama_index_bots/**: Tools to either run an existing llamaindex vector store or create your own from the data.
 - **storage/**: Information about the llamaindex vector store.
 - **old/**: Archive of old versions and files.
