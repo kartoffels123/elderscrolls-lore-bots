@@ -17,7 +17,6 @@ This project explores the effectiveness of various implementations of vector ind
 - **llama_index_bots/**: Tools to either run an existing llamaindex vector store or create your own from the data.
 - **storage/**: Information about the llamaindex vector store.
 - **old/**: Archive of old versions and files.
-- **pictures/**: Visual assets related to the project.
 - **venv/**: Virtual environment setup.
 
 ## Key Files:
